@@ -6,6 +6,8 @@ source config.sh
 aws s3 mb s3://$firstBucketName
 aws s3 mb s3://$secondBucketName
 
+source createLambda.sh
+
 # isRunning=true
 # while [ isRunning ]; do
 #     bucket=""
