@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Projektarbeit 'Bildverkleinerung', M346
 # Autoren: Blatt Damian, Bruelisauer Manuel, Inauen Maurin
 
