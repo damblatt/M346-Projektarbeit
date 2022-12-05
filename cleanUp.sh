@@ -1,5 +1,10 @@
 #!/bin/bash
 
+source config.sh
+aws s3 rb s3://$firstBucketName --force
+aws s3 rb s3://$secondBucketName --force
+
+
 isRunning=true
 while [ isRunning ]; do
     bucket=""
