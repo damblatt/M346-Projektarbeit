@@ -2,9 +2,9 @@
 
 source config.sh
 # source createRole.sh
+echo $roleARN \
 
 aws lambda create-function \
-    echo $roleARN \
     --function-name $functionName \
     --runtime $runtime \
     --code fileb://codeFile.sh \
