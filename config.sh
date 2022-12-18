@@ -1,6 +1,6 @@
 firstBucketName="m347-testbucketnr1"
 secondBucketName="m347-testbucketnr2"
 functionName="m347-function"
-runtime="python3.9"
+runtime="bash"
 roleARN="arn:aws:iam::341124230193:role/LabRole"
 # lambdaPolicySource="lambdaPolicy.json"
