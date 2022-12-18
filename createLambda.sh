@@ -6,5 +6,5 @@ source config.sh
 aws lambda create-function \
     --function-name $functionName \
     --runtime $runtime \
-    --role $roleARN \
-    --code $code
+    --zip-file fileb://codeFile.sh \
+    --role $roleARN
