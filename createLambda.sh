@@ -7,7 +7,7 @@ aws lambda create-function \
     --function-name $functionName \
     --runtime $runtime \
     --handler $handler \
-    --zip-file fileb://zipFile.zip \
+    --zip-file fileb://func.zip \
     --role $roleARN
 
 # create S3-Trigger
