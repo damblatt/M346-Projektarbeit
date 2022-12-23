@@ -6,34 +6,6 @@ from io import BytesIO
 
 s3 = boto3.resource('s3')
 
-def delete_this_bucket(name):
-    bucket = s3.Bucket(name)
-    for key in bucket.objects.all():
-        try:
-            key.delete()
-            bucket.delete()
-        except Exception as e:
-            print("SOMETHING IS BROKEN !!")
-
-# def create_this_bucket(name, location):
-#     try:
-#         s3.create_bucket(
-#             Bucket=name,
-#             CreateBucketConfiguration={
-#                 'LocationConstraint': location
-#             }
-#         )
-#     except Exception as e:
-#         print(e)
-
-def upload_test_images(name):
-    for each in os.listdir('./testimage'):
-        try:
-            file = os.path.abspath(each)
-            s3.Bucket(name).upload_file(file, each)
-        except Exception as e:
-            print(e)
-
 def copy_to_other_bucket(src, des, key):
     try:
         copy_source = {
@@ -57,7 +29,6 @@ def resize_image(src_bucket, des_bucket):
         im = Image.open(BytesIO(file_byte_string))
 
         im.thumbnail(size, Image.ANTIALIAS)
-        # ISSUE : https://stackoverflow.com/questions/4228530/pil-thumbnail-is-rotating-my-image
         im.save(in_mem_file, format=im.format)
         in_mem_file.seek(0)
 
