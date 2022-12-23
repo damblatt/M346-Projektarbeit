@@ -3,10 +3,13 @@
 Wir, Damian, Manuel und Maurin, haben uns für das Projekt 'Bildverkleinerung' entschieden. Wir arbeiten mit der Entwicklungsumgebung Visual Studio Code, da wir dort mit passenden Javascript Extensions arbeiten können.
 
 **Dokumentation**  
-Wieso haben wir uns für dieses Projekt entschieden?
+Wir haben uns als Gruppe für das Projekt 'Bildverkleinerung' entschieden, da dieses spannend klingt und gute Grundlagen bildet, um z. B. auch in der Freizeit mit S3 und Co. zu experimentieren.
+Die ersten zwei Buckets haben wir ziemlich schnell erstellt. Die Namen der Buckets waren jedoch noch 'hard coded'. Also machten wir uns an die Arbeit, um uns den Rest der Projektarbeit zu erleichtern. Damian schrieb also ein config-file, welches Daten wie die Laufzeit, aber auch Namen oder Keys beinhaltet.
+Bereits nach dem ersten Ausführen fiel uns auf, dass wir ein Script schreiben sollten, welches unsere Aufräumarbeiten übernimmt. So kam unser cleanUp-file zustande. Dieses löscht die Buckets, die erstellt wurden. So erreichten wir schnell eine bessere Ordnung und wir konnten uns viel Zeit und Mühe sparen.
+Nachdem Damian das Script für die Erstellung der Lambda-Funktion fertig geschrieben hat, machte sich Manuel an die Arbeit, den Inhalt der Funktion zu schreiben. Dort tauchten auch die meisten Fehler und Unklarheiten auf. Wir mussten also oft als Gruppe zusammensitzen und die Probleme gemeinsam lösen.
+Schlussendlich fasste Damian das Dokumentierte zusammen und alle Gruppenmitglieder schrieben noch eine abschliessende Reflexion zu der Arbeit.
 
-    
-
+   
 
 
 
