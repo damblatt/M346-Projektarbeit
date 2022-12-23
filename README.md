@@ -3,12 +3,7 @@
 Wir, Damian, Manuel und Maurin, haben uns für das Projekt 'Bildverkleinerung' entschieden. Wir arbeiten mit der Entwicklungsumgebung Visual Studio Code, da wir dort mit passenden Javascript Extensions arbeiten können.
 
 **Dokumentation**
-    Wiso haben wir uns für dieses Projekt entschieden?
-
-    
-
-
-
+    Wir haben uns als Gruppe für Bildverkleinerung entschieden, da wir es als das leichteste Projekt empfunden haben. Schon bei der Projektbeschreibung wurde uns bereits mehrheitlich bewusst, dass wir keine sofortige Lösungsidee für die Umsetung hatten. Während der ersten 5 Lektionen erstellten wir hauptsächlich die Bash scripts, da wir bei jeglichem Versuch der Lambda Funktion mit Python nicht weiterwussten. 
 
 **Reflexion**
   **Damian**
