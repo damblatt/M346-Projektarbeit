@@ -1,5 +1,8 @@
 import boto3
+import os
 from PIL import Image
+import pathlib
+from io import BytesIO
 
 s3 = boto3.client('s3')
 
