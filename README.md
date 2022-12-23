@@ -1,6 +1,5 @@
 # M346-Projektarbeit
-
-Wir, Damian, Manuel und Maurin, haben uns für das Projekt 'Bildverkleinerung' entschieden. Wir arbeiten mit der Entwicklungsumgebung Visual Studio Code, da wir dort mit passenden Javascript Extensions arbeiten können.
+Projektarbeit im Modul 346
 
 **Dokumentation**  
 Wir haben uns als Gruppe für das Projekt 'Bildverkleinerung' entschieden, da dieses spannend klingt und gute Grundlagen bildet, um z. B. auch in der Freizeit mit S3 und Co. zu experimentieren.
