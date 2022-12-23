@@ -17,8 +17,8 @@ Ich denke eine kleine Einführung resp. Hilfestellung wäre auf jeden Fall hilfr
 Ich spreche dabei nicht von der Logik, sondern mehr davon, wie man den geschriebenen Code mit den Buckets verbindet. 
 Ich denke was die Kommunikation zwischen Lehrperson und Schüler anbelangt ist auf jeden Fall noch Verbesserungspotential übrig/nötig.
 
-  **Reflexion Manuel**
-
+  **Reflexion Manuel**  
+  blablabla  
+  
   **Reflexion Maurin**  
-  Im Allgemeinen finde ich das Projekt eine gute idee. Leider ist die Zeitberechnung etwas fehlkalkuliert worden seitens der Lehrerschaft. Wir hätten einiges mehr Zeit benötigt, um eine gute Abgabe zu erarbeiten, geschweige dann eine funktionierende. Zudem, finde ich es etwas unverständlich, dass man während der Lektion nur die Theorie mit dem UI von AWS lernt, aber schlussendlich ein Projekt in Code erwartet wird. Auch Python, obwohl es kopierbar aus dem Internet war, hätte ich noch gerne etwas mehr verstanden, als nur dass dieser Code funktioniert.
-    Am projekt zu arbeiten war aus meiner Sicht eher unpannend, da man sich viel selbst beibringen musste.*Dafür wäre  nach meinem Wissen ein Leher und eine Schule Gedacht wären.* Dieses fehlende Wissen machte es sehr anstrengend zu arbeiten, was auch eifluss auf die Motivation, etc. hat. 
+  Im Allgemeinen finde ich das Projekt eine gute Idee. Leider ist die Zeitberechnung etwas minimalistisch kalkuliert worden seitens der Lehrerschaft. Wir hätten einiges mehr Zeit benötigt, um eine gute Abgabe zu erarbeiten, geschweige dann eine funktionierende. Zudem habe ich wenig Verständnis dafür, dass man während der Lektion nur die Theorie mit dem UI von AWS lernt, aber schlussendlich ein Projekt im CLI wird. Auch Python, obwohl es kopierbar aus dem Internet war, hätte ich noch gerne etwas mehr verstanden. Ein funktionierender Code genügt meiner Meinung nach nicht; man muss ihn auch verstehen. Ich nahm die Arbeit am Projekt etwas seltsam wahr, da man sich das meiste selbst beibringen musste und fast keine Verbindung zum im Unterricht behandelten Stoff besteht. Dafür wäre nach meinem Wissen ein Lehrer und eine Schule gedacht wären. Dieses fehlende Wissen machte es sehr anstrengend zu arbeiten, was auch Einfluss auf die Motivation etc. hat.
