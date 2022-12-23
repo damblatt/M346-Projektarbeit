@@ -4,8 +4,6 @@ from PIL import Image
 import pathlib
 from io import BytesIO
 
-
-
 s3 = boto3.resource('s3')
 
 def delete_this_bucket(name):
