@@ -10,8 +10,8 @@ Wieso haben wir uns für dieses Projekt entschieden?
 
 
 
-**Reflexion**
-  **Damian**  
+**Reflexion**  
+**Damian**  
   Ich finde es eine gute Idee, ein Projekt durchzuführen, welches zum Modul passt und dieses eigentlich auch zusammenfasst.
 Die Themen die zur Verfügung stehen sind ebenfalls gut gewählt. Die Zeit, die wir während den Lektionen hatten ist meiner Meinung nach jedoch sehr kurz.
 Ich denke eine kleine Einführung resp. Hilfestellung wäre auf jeden Fall hilfreich gewesen. Besonders Schwierigkeiten hatte ich jedoch damir, die Lambda Funktion zu verstehen.
